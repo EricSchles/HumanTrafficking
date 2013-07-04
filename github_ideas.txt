@@ -1,0 +1,20 @@
+Anti- Trafficking software
+https://github.com/girldevelopit/traffic-report
+
+https://github.com/jeffpersonified/traffic_watch
+
+https://github.com/keroserene/sbi-yank
+
+https://github.com/JGallardo/dfndr
+
+https://github.com/tlevine/human-trafficking
+
+https://github.com/WheezePuppet/humanTrafficking
+
+--Use all of these to build an application
+
+An application with departure times for buses and trains in sweden
+http://sourceforge.net/projects/trafficking/?source=directory
+
+--Use this to get data on sweden’s transportation service
+
