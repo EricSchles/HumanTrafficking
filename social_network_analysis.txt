@@ -8,3 +8,6 @@ https://technologyandtrafficking.usc.edu/files/2011/09/HumanTrafficking_SUMMARY.
 
 http://www.utdallas.edu/~jxr061100/paper-for-website/%5B18%5DMining-Terrorism-NGDM04.pdf
 --data mining and counter terrorism
+
+http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5561483&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D5561483
+--This paper includes the term Information Extraction (IE) a research topic in counter terrorism / cyber security research
